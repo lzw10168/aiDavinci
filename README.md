@@ -1,64 +1,49 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-锁定/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
+<p 对齐=“中心”>
+<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="构建状态"></一个>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="总下载量"> </a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="最新稳定版" ></a>
+<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="许可证">< /a>
+
 </p>
 
-## About Laravel
+## 关于 Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Laravel 是一个具有表现力和优雅语法的 Web 应用程序框架。我们相信发展必须是一种愉快和创造性的体验，才能真正令人满意。 Laravel 通过简化许多 Web 项目中使用的常见任务来减轻开发的痛苦，例如：
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+-[简单、快速的路由引擎](https://laravel.com/docs/routing)。
+-[强大的依赖注入容器](https://laravel.com/docs/container)。
+-[session](https://laravel.com/docs/session) 和 [cache](https://laravel.com/docs/cache) 存储的多个后端。 -富有表现力、直观的 [数据库 ORM](https://laravel.com/docs/eloquent)。 -数据库不可知 [架构迁移](https://laravel.com/docs/migrations)。
+-[强大的后台作业处理](https://laravel.com/docs/queues)。
+-[实时事件广播](https://laravel.com/docs/broadcasting)。
+Laravel 易于访问、功能强大，并提供大型、健壮的应用程序所需的工具。
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## 学习 Laravel
 
-## Learning Laravel
+Laravel 拥有所有现代 Web 应用程序框架中最广泛、最全面的 [文档](https://laravel.com/docs) 和视频教程库，让您轻松上手该框架。
+如果您不喜欢阅读，[Laracasts](https://laracasts.com) 可以提供帮助。 Laracasts 包含 2000 多个视频教程，主题广泛，包括 Laravel、现代 PHP、单元测试和 JavaScript。通过挖掘我们全面的视频库来提高您的技能。
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+## Laravel 赞助商
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+我们要感谢以下资助 Laravel 开发的赞助商。如果您有兴趣成为赞助商，请访问 Laravel [Patreon 页面](https://patreon.com/taylorotwell)。
 
-## Laravel Sponsors
+### 高级合作伙伴
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+-**[Vehikl](https://vehikl.com/)** -**[收紧公司](https://tighten.co)** -**[Kirschbaum 发展集团](https://kirschbaumdevelopment.com)** -**[64 机器人](https://64robots.com)** -**[立方技术实验室](https://cubettech.com)** -**[Cyber​​-Duck](https://cyber-duck.co.uk)** -**[许多](https://www.many.co.uk)** -**[Webdock，快速 VPS 托管](https://www.webdock.io/en)** -**[DevSquad](https://devsquad.com)** -**[Curotec](https://www.curotec.com/services/technologies/laravel/)** -**[OP.GG](https://op.gg)** -**[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)** -**[Lendio](https://lendio.com)**
 
-### Premium Partners
+## 贡献
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+感谢您考虑为 Laravel 框架做出贡献！贡献指南可以在 [Laravel 文档](https://laravel.com/docs/contributions) 中找到。
 
-## Contributing
+＃＃ 行为守则
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+为了确保 Laravel 社区欢迎所有人，请查看并遵守 [行为准则](https://laravel.com/docs/contributions#code-of-conduct)。
 
-## Code of Conduct
+## 安全漏洞
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+如果您发现 Laravel 中存在安全漏洞，请通过 [taylor@laravel.com](mailto:taylor@laravel.com) 向 Taylor Otwell 发送电子邮件。所有安全漏洞都将得到及时解决。
 
-## Security Vulnerabilities
+＃＃ 执照
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Laravel 框架是根据 [MIT 许可证](https://opensource.org/licenses/MIT) 获得许可的开源软件。
